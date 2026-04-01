@@ -15,8 +15,11 @@
 
 
 Features
+
 1.Dynamic Product and Cart Toggle
+
 2.Cart Functionality with Toast ALerts
+
 3.Responsive Design
 
 
