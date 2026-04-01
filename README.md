@@ -1,6 +1,6 @@
 
 
-1.Digital Tools Buying WEbsite
+#1.Digital Tools Buying WEbsite
 
 
 2.  A responsive React-based e-commerce platform for purchasing digital tools. it includes products listing , cart functionality , chekout process
@@ -14,7 +14,7 @@
 7. JSON(for product data)
 
 
-Features
+#Features
 
 1.Dynamic Product and Cart Toggle
 
