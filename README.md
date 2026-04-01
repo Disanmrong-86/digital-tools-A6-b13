@@ -1,3 +1,48 @@
+
+
+1.Digital Tools Buying WEbsite
+
+
+2.  A responsive React-based e-commerce platform for purchasing digital tools. it includes products listing , cart functionality , chekout process
+
+
+
+3. React.js
+4. Tailwind Css and DaisyUi
+5. JS(ES6+)
+6. React-Toastify(NPM Package)
+7. JSON(for product data)
+
+
+Features
+1.Dynamic Product and Cart Toggle
+2.Cart Functionality with Toast ALerts
+3.Responsive Design
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
